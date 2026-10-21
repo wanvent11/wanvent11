@@ -1,9 +1,11 @@
-<h1 align="center">Hello World. -Wanvent11</h1>
-<h3 align="center">I am a person interested in learning new things, よろしくお願いします。</h3>
+<h1 align="center">Hello World :3 -wanvent11</h1>
+<h3 align="center">Interested in learning new things, よろしくお願いします。</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wanvent11&label=Profile%20views&color=0e75b6&style=flat" alt="wanvent11" /> </p>
 
-- 🔭 I’m currently working on **a Private Minecraft Server**
+- ⛏ Working on **Minecraft Datapacks with Server-sided mods**
+- ( っ'-')╮ =͟͟͞͞🏀 Working on a physics-based game called **Throwables**
+- 🔭 Working on an adventure game called **The Royal Space**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
