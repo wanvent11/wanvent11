@@ -1,5 +1,5 @@
 <h1 align="center">H E L L O | W O R L D <br> -wanvent11</h1>
-<h3 align="center">Interested in learning new things, よろしくお願いします。</h3>
+<h3 align="center">I'm interested in learning new things, よろしくお願いします。</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wanvent11&label=Profile%20views&color=0e75b6&style=flat" alt="wanvent11" /> </p>
 
