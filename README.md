@@ -1,9 +1,9 @@
-<h1 align="center">Hello World :3 -wanvent11</h1>
+<h1 align="center">Hello World -wanvent11</h1>
 <h3 align="center">Interested in learning new things, よろしくお願いします。</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wanvent11&label=Profile%20views&color=0e75b6&style=flat" alt="wanvent11" /> </p>
 
-- ⛏ Working on **Minecraft Datapacks with Server-sided mods**
+- ⛏ Working on **Minecraft Datapacks with Server-Sided Mods**
 - ( っ'-')╮ =͟͟͞͞🏀 Working on a physics-based game called **Throwables**
 - 🔭 Working on an adventure game called **The Royal Space**
 
@@ -52,8 +52,9 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 
 <h3 align="left">Adobe Tools (might migrate to ArtCraft at some point):</h3>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/wanvent11/my-github-user-profile/raw/refs/heads/main/icons/photoshop.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://github.com/wanvent11/my-github-user-profile/raw/refs/heads/main/icons/premiere_pro.svg" alt="illustrator" width="40" height="40"/> </a> 
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/wanvent"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="wanvent" /></a></p><br><br>
