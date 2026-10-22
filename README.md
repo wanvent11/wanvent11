@@ -57,7 +57,7 @@
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://github.com/wanvent11/my-github-user-profile/raw/refs/heads/main/icons/premiere_pro.svg" alt="illustrator" width="40" height="40"/> </a> 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/wanvent"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="200" alt="wanvent"></a></p> <br><br><br><br>
+<p><a href="https://ko-fi.com/wanvent"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="180" alt="wanvent"></a></p> <br><br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wanvent11&show_icons=true&locale=en&layout=compact" alt="wanvent11" /></p>
 
